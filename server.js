@@ -19,8 +19,8 @@ app.get('/locationService', (req, res) => {
         id: vehicleId || '985CC5EC1D3FC176E053DD4D1FAC4E39',
         timestamp: Math.floor(Date.now() / 1000),
         location: {
-            lon: -104.98970794677734 + (Math.random() * 0.01), // Simulate slight changes in location
-            lat: 39.697723388671875 + (Math.random() * 0.01)
+            lon: 151.2074 + (Math.random() * 0.01), // Simulate slight changes in location
+            lat: -33.8678 + (Math.random() * 0.01)
         }
     };
 
