@@ -4,7 +4,7 @@ This example uses ESRI's ArcGIS API for JavaScript with NodeJS to plot a vehicle
 
 The geolocation is published by a REST service and the client webpage polls for that position every 10 seconds.
 
-![image](https://github.com/user-attachments/assets/1a807111-483d-45f9-9746-21d657ce9ca6)
+![image](https://github.com/user-attachments/assets/26d43652-57d7-478d-a66a-6eb96f529f51)
 
 Follow commands needed to run this are:
 ```
